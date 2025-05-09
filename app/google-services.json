@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "666759220637",
+    "firebase_url": "https://loayapp-58fa1-default-rtdb.firebaseio.com",
+    "project_id": "loayapp-58fa1",
+    "storage_bucket": "loayapp-58fa1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666759220637:android:2852663c65cc5b10bef374",
+        "android_client_info": {
+          "package_name": "com.m7md7sn.loayapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsEdEZ_h80pDP9AX5omTwK93WiJdiLKCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

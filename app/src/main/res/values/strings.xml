@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tetra Cycle</string>
+    <string name="logo_content_description">Tetra Cycle Logo</string>
+    <string name="section_water_quality">Water Quality Sensors</string>
+    <string name="section_system_parts">System Parts</string>
+
+    <string name="sensor_tds">TDS</string>
+    <string name="sensor_ph">pH</string>
+    <string name="sensor_turbidity">Turbidity</string>
+
+    <string name="unit_ppm">PPM</string>
+    <string name="unit_ntu">NTU</string>
+    <string name="unit_celsius">°C</string>
+    // pH has no unit shown
+
+    <string name="part_pumps">Pumps</string>
+    <string name="part_sensors">Sensors</string>
+    <string name="part_ec_system">EC system</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_monitoring">Monitoring</string>
+    <string name="nav_control">Control</string>
+
+</resources>
