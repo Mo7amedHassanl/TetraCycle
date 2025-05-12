@@ -1,4 +1,4 @@
-# LoayApp
+# TetraCycle
 
 An Android water quality monitoring application built with Jetpack Compose and Firebase Realtime Database.
 
