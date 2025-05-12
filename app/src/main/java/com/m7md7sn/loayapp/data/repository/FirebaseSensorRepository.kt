@@ -1,5 +1,6 @@
 package com.m7md7sn.loayapp.data.repository
 
+import androidx.annotation.Keep
 import com.google.firebase.database.DataSnapshot
 import com.google.firebase.database.DatabaseError
 import com.google.firebase.database.FirebaseDatabase
@@ -11,6 +12,7 @@ import kotlinx.coroutines.flow.callbackFlow
 import javax.inject.Inject
 import javax.inject.Singleton
 
+@Keep
 @Singleton
 class FirebaseSensorRepository @Inject constructor() {
     private val database = FirebaseDatabase.getInstance()

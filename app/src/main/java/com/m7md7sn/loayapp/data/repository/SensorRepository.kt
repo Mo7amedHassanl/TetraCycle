@@ -1,5 +1,6 @@
 package com.m7md7sn.loayapp.data.repository
 
+import androidx.annotation.Keep
 import com.m7md7sn.loayapp.data.model.FirebaseSensorData
 import com.m7md7sn.loayapp.data.model.SensorReading
 import com.m7md7sn.loayapp.data.model.SystemPart
@@ -17,6 +18,7 @@ import java.util.Locale
 import javax.inject.Inject
 import javax.inject.Singleton
 
+@Keep
 @Singleton
 class SensorRepository @Inject constructor(
     private val firebaseRepository: FirebaseSensorRepository

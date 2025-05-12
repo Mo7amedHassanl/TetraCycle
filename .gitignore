@@ -13,3 +13,34 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Release-related files
+*.jks
+*.keystore
+*.aab
+**/release/
+google-services.json
+
+# Log Files
+*.log
+replay_*.log
+hs_err_*.log
+
+# External native build folder
+.cxx/
+
+# Generated files
+bin/
+gen/
+out/
+
+# Generated APKs
+*.apk
+release/
+
+# IntelliJ IDEA
+.idea/kotlinScripting.xml
+.idea/deploymentTargetDropDown.xml
+.idea/misc.xml
+.idea/inspectionProfiles/
+.idea/android.xml
